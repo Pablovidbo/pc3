@@ -1,0 +1,90 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#mainlogin {
+    max-width: 500px; 
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 30vh;
+}
+
+
+.usuario {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    max-width: 300px;
+}
+
+.usuario-imagen {
+    margin-right: 20px;
+}
+
+.usuario-imagen img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.usuario-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputLogin {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    max-width: 300px; /* Ajusta el ancho máximo según sea necesario */
+    width: 100%;
+}
+
+.inputLogin .input {
+    margin-bottom: 10px;
+}
+
+.inputLogin label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.inputLogin input[type="text"],
+.inputLogin input[type="password"] {
+    width: calc(100% - 10px);
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.inputLogin .btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.inputLogin .btn:hover {
+    background-color: #0056b3;
+}
+
+.menor-edad .usuario-info {
+    color: red;
+}
+
+

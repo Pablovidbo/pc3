@@ -1,0 +1,152 @@
+[
+    {
+        "entrenador": "Gary Owh",
+        "pokemons": [
+            {
+                "nombre": "Vinnasor",
+                "tipo": "planta",
+                "foto": "img/vinasor.jpg"
+            },
+            {
+                "nombre": "Eevee",
+                "tipo": "normal",
+                "foto": "img/eevee.jpg"
+            },
+            {
+                "nombre": "Blastoise",
+                "tipo": "agua",
+                "foto": "img/blastoise.jpg"
+            },
+            {
+                "nombre": "Pidgeot",
+                "tipo": "volador",
+                "foto": "img/pidgeot.jpg"
+            },
+            {
+                "nombre": "Arcanine",
+                "tipo": "fuego",
+                "foto": "img/arcanine.jpg"
+            }
+        ]
+    },
+    {
+        "entrenador": "Ash Quetchu",
+        "pokemons": [
+            {
+                "nombre": "Charizard",
+                "tipo": "fuego",
+                "foto": "img/charizard.jpg"
+            },
+            {
+                "nombre": "Pikachu",
+                "tipo": "electrico",
+                "foto": "img/pikachu.jpg"
+            },
+            {
+                "nombre": "Bulbasaur",
+                "tipo": "planta",
+                "foto": "img/bulbasaur.jpg"
+            },
+            {
+                "nombre": "Squirtle",
+                "tipo": "agua",
+                "foto": "img/squirtle.jpg"
+            },
+            {
+                "nombre": "Butterfree",
+                "tipo": "bicho",
+                "foto": "img/butterfree.jpg"
+            }
+        ]
+    },
+    {
+        "entrenador": "Brock Stones",
+        "pokemons": [
+            {
+                "nombre": "Onix",
+                "tipo": "roca",
+                "foto": "img/onix.jpg"
+            },
+            {
+                "nombre": "Geodude",
+                "tipo": "roca",
+                "foto": "img/geodude.jpg"
+            },
+            {
+                "nombre": "Zubat",
+                "tipo": "veneno",
+                "foto": "img/zubat.jpg"
+            },
+            {
+                "nombre": "Vulpix",
+                "tipo": "fuego",
+                "foto": "img/vulpix.jpg"
+            },
+            {
+                "nombre": "Croagunk",
+                "tipo": "lucha",
+                "foto": "img/croagunk.jpg"
+            }
+        ]
+    },
+    {
+        "entrenador": "Misty Waters",
+        "pokemons": [
+            {
+                "nombre": "Starmie",
+                "tipo": "agua",
+                "foto": "img/starmie.jpg"
+            },
+            {
+                "nombre": "Psyduck",
+                "tipo": "psíquico",
+                "foto": "img/psyduck.jpg"
+            },
+            {
+                "nombre": "Goldeen",
+                "tipo": "agua",
+                "foto": "img/goldeen.jpg"
+            },
+            {
+                "nombre": "Horsea",
+                "tipo": "agua",
+                "foto": "img/horsea.jpg"
+            },
+            {
+                "nombre": "Gyarados",
+                "tipo": "volador",
+                "foto": "img/gyarados.jpg"
+            }
+        ]
+    },
+    {
+        "entrenador": "Lt. Surge",
+        "pokemons": [
+            {
+                "nombre": "Raichu",
+                "tipo": "electrico",
+                "foto": "img/raichu.jpg"
+            },
+            {
+                "nombre": "Electabuzz",
+                "tipo": "electrico",
+                "foto": "img/electabuzz.jpg"
+            },
+            {
+                "nombre": "Magnemite",
+                "tipo": "acero",
+                "foto": "img/magnemite.jpg"
+            },
+            {
+                "nombre": "Voltorb",
+                "tipo": "electrico",
+                "foto": "img/voltorb.jpg"
+            },
+            {
+                "nombre": "Jolteon",
+                "tipo": "electrico",
+                "foto": "img/jolteon.jpg"
+            }
+        ]
+    }
+]
